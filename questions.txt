@@ -1,0 +1,3 @@
+1,You are not required to initialize a variable when you first declare it in PHP., True or False? (CH1 - P66),false
+2,URL tokens use the post method., True or False? (CH5 - P221),false
+3,With Web page templates every page needs to be modified to change an image in the header section.,True or False? (CH5 - P221),true

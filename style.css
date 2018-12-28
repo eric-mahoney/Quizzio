@@ -1,0 +1,22 @@
+.score {
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+}
+
+.bad {
+	font-weight: bold;
+	color: black;
+}
+
+.okay {
+	color: red;
+}
+
+.good {
+	color: yellow;
+}
+
+.great {
+	color: green;
+}
