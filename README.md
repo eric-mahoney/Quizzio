@@ -9,6 +9,10 @@
 
 **submitted.php**: Compares the two text files to determine how many questions the user answered correctly. Generates a percentage and displays a color-coordinated footer.
 
-**questions.txt**: Questions csv text file. Format: (question),(chapter_number),(correct_answer).
+**questions.txt**: Questions csv text file.
 
-**answers.txt**: Answers csv text file. Format: (question_number),(answer_choice_one),(answer_choice_two).
+- Format: (question),(chapter_number),(correct_answer).
+
+**answers.txt**: Answers csv text file. 
+
+- Format: (question_number),(answer_choice_one),(answer_choice_two).
