@@ -1,7 +1,13 @@
 # Quizzer.io
 
+Creator: Eric Mahoney
+
+Date: October 2018
+
+About: Uses PHP to parse text files and display questions and answers. Calculates and returns percentage based on performance.
+
 ## Built With:
-**PHP** - Used to parse and display information from text files. Calculates and returns percentage based on performance.
+**PHP**
 
 ## About:
 
