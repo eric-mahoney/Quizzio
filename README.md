@@ -6,8 +6,7 @@ Date: October 2018
 
 About: Uses PHP to parse text files and display questions and answers. Calculates and returns percentage based on performance.
 
-## Built With:
-**PHP**
+## Built With: **PHP**
 
 ## About:
 
