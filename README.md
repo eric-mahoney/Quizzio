@@ -8,9 +8,6 @@ About: Uses PHP to parse text files and display questions and answers. Calculate
 
 ## Built With: **PHP**
 
-## About:
-
-
 **index.php**: Generates the questions and answers from the two text files, answers.txt and questions.txt, in an HTML form. Sends the answers to submitted.php to be graded and displayed.
 
 **submitted.php**: Compares the two text files to determine how many questions the user answered correctly. Generates a percentage and displays a color-coordinated footer.
