@@ -1,4 +1,4 @@
-# Quizzer.io
+# Quizzio
 
 Creator: Eric Mahoney
 
